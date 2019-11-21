@@ -103,4 +103,4 @@ public class Exam02 {
 				e. long - 0
 				f. String - "" */
 		
-		
+		//ㅎㅎㅎㅎ
